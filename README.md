@@ -11,3 +11,5 @@ A little bit about Me :) :
 - 📫 How to reach me: Probably by pigeon
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I have a fiesty little Jack Russell (thinks he's more terrier than chihuahua...he is not)
+
+Raquel Layton-Brown
