@@ -1,0 +1,26 @@
+body {
+    font-family:licorice;
+    background-color: #19FAD1;
+    color: #A1B4E6;
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Inspiration;
+    text-align: center;
+}
+
+header {
+    color: #19FAD1;
+    background-color: #A1B4E6;
+    text-align: center;
+}
+
+#hero {
+    text-align: center;
+    background-color: #FFFF82;
+}
+
+#bio {
+    text-align: center;
+}
